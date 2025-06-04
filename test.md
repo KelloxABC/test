@@ -1,3 +1,0 @@
-# Ciao  
-
-Mi chiamo `cristian`
